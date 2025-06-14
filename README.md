@@ -92,7 +92,7 @@ python main.py --input './your_file.xlsx'
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **Apache-2.0 license**.
 
 ---
 
